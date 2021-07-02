@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tecnologico.Shared/1.0.0": {
+        "runtime": {
+          "Tecnologico.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tecnologico.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
